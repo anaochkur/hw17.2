@@ -51,11 +51,13 @@ body{
             color: #FFCC00;
             font-size: 60px;
             margin: 0 auto;
+            text-transform: uppercase;
         }
         .subtitle{
             font-size: 18px;
             color: #898F8F;
             font-weight: 200;
+            text-transform: uppercase;
         }
     }
     .slider{
@@ -167,6 +169,7 @@ pointer-events: none;
     width: 118px;
     height: 24px;
     background-color: white;
+    text-transform: uppercase;
     &:hover{
         cursor: pointer;
         opacity: 0.7;
